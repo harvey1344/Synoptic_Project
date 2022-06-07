@@ -4,8 +4,8 @@
     package="com.example.synopticproject">
 
     <application
-        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
@@ -13,8 +13,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SynopticProject"
-        tools:targetApi="31"
-        tools:replace="android:appComponentFactory">
+        tools:replace="android:appComponentFactory"
+        tools:targetApi="31">
+        <activity
+            android:name=".Farming"
+            android:exported="false" />
+        <activity
+            android:name=".GettingOnline"
+            android:exported="false" />
+        <activity
+            android:name=".Fishing"
+            android:exported="false" />
+        <activity
+            android:name=".Cleaning"
+            android:exported="false" />
+        <activity
+            android:name=".Washing"
+            android:exported="false" />
+        <activity
+            android:name=".Cooking"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.DEFAULT" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
