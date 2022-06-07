@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1025" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_cleaning.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_cooking.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_farming.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_fishing.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_getting_online.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_main2.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/activity_washing.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/list.xml" value="0.1" />
         <entry key="..\:/Users/harvey/AndroidStudioProjects/SynopticProject/app/src/main/res/layout/staticlistviewmain.xml" value="0.1" />
       </map>
     </option>

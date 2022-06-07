@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Synoptic Project</string>
     <string name="enter_app">Enter App</string>
+
+
+    <string-array name="pages">
+        <item>Cooking</item>
+        <item>Washing</item>
+        <item>Cleaning</item>
+        <item>Farming</item>
+        <item>Fishing</item>
+        <item>Getting Online</item>
+    </string-array>
 </resources>
