@@ -23,4 +23,33 @@
         android:inputType="textPersonName"
         android:text="Welcome to Cooking"
         android:textSize="24sp" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="525dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="348dp"
+            android:layout_height="144dp"
+            android:text="To save money and boost your health, you may be doing more home cooking than ever before. You can use simple tips and tricks to cook healthy meals, bake yummy desserts, throw a fabulous party, and save time in the kitchen. With a bit of planning, some expert advice, and fresh ingredients, you’ll be cooking delicious meals in no time — even if you consider yourself a kitchen novice."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.492"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.312" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="211dp"
+            android:layout_height="238dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.944"
+            app:srcCompat="@mipmap/ic_launcher_foreground" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
