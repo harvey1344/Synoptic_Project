@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Synoptic Project</string>
     <string name="enter_app">Enter App</string>
+    <string name="chicken">Chicken will vary in time to cook depending on the thickness of the chicken. It can be useful to pound the meat to make it thinner or poke holes with a utensil to quicken cooking time.
+Chicken is safe to eat at 165 degrees(F) and can still be slightly pink, so colour isn’t the only indicator of doneness. A good way to check is to hold your finger in the middle of the chicken and if its too ho to hold for more than ½ second then you’re done.
+An immediate way to cook is to sear the chicken in a hot pan for 3-4 minutes each side and then finish off in the oven.
+</string>
 
 
     <string-array name="pages">
