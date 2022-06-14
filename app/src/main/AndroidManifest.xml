@@ -34,7 +34,7 @@
             android:name=".Cooking"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".WasteManagement"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.DEFAULT" />
