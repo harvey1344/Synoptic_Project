@@ -11,18 +11,20 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#FF0000"
+        android:background="#03A9F4"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme" />
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
-        android:layout_width="wrap_content"
+        android:layout_width="94dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Welcome to Cooking"
-        android:textSize="24sp" />
+        android:text="Cooking"
+        android:textSize="24sp"
+        app:layout_anchor="@+id/toolbar"
+        app:layout_anchorGravity="center" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

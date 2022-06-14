@@ -66,6 +66,10 @@ public class StaticListViewActivity extends AppCompatActivity implements Adapter
             case "Getting Online"  :
                 startActivity(new Intent(StaticListViewActivity.this, GettingOnline.class));
                 break;
+
+            case "Waste Management"  :
+                startActivity(new Intent(StaticListViewActivity.this, WasteManagement.class));
+                break;
         }
         Toast.makeText(this.getApplicationContext(), "Clicked on "+ item, Toast.LENGTH_LONG).show();
 

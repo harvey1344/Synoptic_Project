@@ -13,7 +13,7 @@ import androidx.fragment.app.Fragment;
 
 public class StaticListViewFragment extends Fragment {
 
-    private static String[] MOBILE_MODELS = {"Cooking", "Cleaning", "Building", "Farming", "Getting Online" };
+    private static String[] MOBILE_MODELS = {"Cooking", "Cleaning", "Building", "Farming", "Getting Online","Waste Management" };
 
     public static StaticListViewFragment newInstance() {
         Bundle args = new Bundle();
