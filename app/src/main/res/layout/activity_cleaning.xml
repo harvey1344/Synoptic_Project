@@ -25,4 +25,69 @@
         android:textSize="24sp"
         app:layout_anchor="@+id/toolbar"
         app:layout_anchorGravity="center" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="196dp"
+            android:layout_height="141dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/shower" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="366dp"
+            android:layout_height="43dp"
+            android:text="This guide is going to teach you how to stay clean and hygeinic even without a shower"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.488"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.13" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="369dp"
+            android:layout_height="121dp"
+            android:text="The best method just requires a bit of warn soapy water and a sponge. You will first foucs on sweaty areas and then just give the rest of your body a little bit of wipe down. You can then use dry shampoo on your hair. And if you want to go a little extra, a bit of baby powder over your body works a charm"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.478"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.254" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="368dp"
+            android:layout_height="81dp"
+            android:text="After washing, you need to make sure to apply some deodrant to under your armpits and sweat- prone areas. An antiperspirant will prevent you from sweating where as a regular deodrant will neutralise the smell"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.511"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.701" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="273dp"
+            android:layout_height="139dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.939"
+            app:srcCompat="@drawable/deodrant" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

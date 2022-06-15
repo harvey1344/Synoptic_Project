@@ -6,6 +6,9 @@ Chicken is safe to eat at 165 degrees(F) and can still be slightly pink, so colo
 </string>
     <string name="chicken2">A good way to check is to hold your finger in the middle of the chicken and if its too ho to hold for more than ½ second then you’re done.
 An immediate way to cook is to sear the chicken in a hot pan for 3-4 minutes each side and then finish off in the oven.</string>
+    <string name="getting_online">Getting Online</string>
+    <string name="onlinetext2">To begin were going to open the settings. From settigns we go to WiFi and network- WiFi. Now you will want to get the SSID (fancy word for name) from your wifi router. And then when prompted, enter the password.</string>
+    <string name="onlinetext1">If youre reading this, we assume you know enough about getting online that this guide will just be a small helper. Now we are going to focus on getting online on a mobile device. So you can get our updates as we make them.</string>
 
 
     <string-array name="pages">
