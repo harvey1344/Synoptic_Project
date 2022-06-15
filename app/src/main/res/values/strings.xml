@@ -9,6 +9,10 @@ An immediate way to cook is to sear the chicken in a hot pan for 3-4 minutes eac
     <string name="getting_online">Getting Online</string>
     <string name="onlinetext2">To begin were going to open the settings. From settigns we go to WiFi and network- WiFi. Now you will want to get the SSID (fancy word for name) from your wifi router. And then when prompted, enter the password.</string>
     <string name="onlinetext1">If youre reading this, we assume you know enough about getting online that this guide will just be a small helper. Now we are going to focus on getting online on a mobile device. So you can get our updates as we make them.</string>
+    <string name="cleaning1">This guide is going to teach you how to stay clean and hygeinic even without a shower</string>
+    <string name="cleaning2">The best method just requires a bit of warn soapy water and a sponge. You will first foucs on sweaty areas and then just give the rest of your body a little bit of wipe down. You can then use dry shampoo on your hair. And if you want to go a little extra, a bit of baby powder over your body works a charm</string>
+    <string name="cleaning3">After washing, you need to make sure to apply some deodrant to under your armpits and sweat- prone areas. An antiperspirant will prevent you from sweating where as a regular deodrant will neutralise the smell</string>
+    <string name="cleaning">Cleaning</string>
 
 
     <string-array name="pages">
