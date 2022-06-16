@@ -23,24 +23,23 @@ public class StaticListViewActivity extends AppCompatActivity implements Adapter
         super.onCreate(savedInstanceState);
         setContentView(R.layout.list);
 
+        // get listView object by id
         ListView listView= findViewById(R.id.staticListView);
+        // on click run "this" AdapterView.OnItemClickListener
         listView.setOnItemClickListener((AdapterView.OnItemClickListener)this);
 
 
     }
 
+
+    // method from AdapterView- define behaviour for menu
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
+        // get string from the text of menu item press
         String item = (String) parent.getItemAtPosition(position);
-        if (item.equals("Cooking"))
-        {
-            startActivity(new Intent(StaticListViewActivity.this, Cooking.class));
-        }
-        else if (item.equals("Cleaning"))
-        {
-            startActivity(new Intent(StaticListViewActivity.this, Cleaning.class));
-        }
+
+        // switch statement dictates the activity that is loading based off the item
         switch (item)
         {
             case "Cooking":

@@ -14,9 +14,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        // find button with the id
         Button menu= findViewById(R.id.button);
-
-
+        // on button press, take to menu activity
         menu.setOnClickListener(v -> startActivity(new Intent(MainActivity.this, StaticListViewActivity.class)));
     }
 }
