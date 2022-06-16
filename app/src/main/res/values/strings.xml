@@ -14,7 +14,10 @@ An immediate way to cook is to sear the chicken in a hot pan for 3-4 minutes eac
     <string name="cleaning3">After washing, you need to make sure to apply some deodrant to under your armpits and sweat- prone areas. An antiperspirant will prevent you from sweating where as a regular deodorant will neutralise the smell</string>
     <string name="cleaning">Cleaning</string>
     <string name="washing1">As well as keeping your body clean, keeping your clothes clean is also important to your health. This guide will show you how to clean your clothes without the need for a washing machine or drier</string>
-
+    <string name="washing2">First you need a tub and preferably either washing detergent or soda crystals to help kill dangerous microbes. Add your detergent to water in the tub first.
+    Then add the clothes and mix them with a stick so you do not damage your skin. You can also use a washboard to improve the cleaning. Then let the clothes soak for an hour before rinsing them with some water</string>
+    <string name="washing3">To dry clothes without a drier all you need to do is tie a string or rope up between two points and then hang the washing over them.
+    Preferably this should be done outside as the sun and wind will allow for the washing to dry much faster and will reduce the chance of damp developing in your house.</string>
 
     <string-array name="pages">
         <item>Cooking</item>
