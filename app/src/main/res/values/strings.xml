@@ -7,17 +7,21 @@ Chicken is safe to eat at 165 degrees(F) and can still be slightly pink, so colo
     <string name="chicken2">A good way to check is to hold your finger in the middle of the chicken and if its too hot to hold for more than ½ second then you’re done.
 An immediate way to cook is to sear the chicken in a hot pan for 3-4 minutes each side and then finish off in the oven.</string>
     <string name="getting_online">Getting Online</string>
-    <string name="onlinetext2">To begin were going to open the settings. From settigns we go to WiFi and network- WiFi. Now you will want to get the SSID (fancy word for name) from your wifi router. And then when prompted, enter the password.</string>
+    <string name="onlinetext2">To begin were going to open the settings. From settings we go to WiFi and network- WiFi. Now you will want to get the SSID (fancy word for name) from your wifi router. And then when prompted, enter the password.</string>
     <string name="onlinetext1">If youre reading this, we assume you know enough about getting online that this guide will just be a small helper. Now we are going to focus on getting online on a mobile device. So you can get our updates as we make them.</string>
-    <string name="cleaning1">This guide is going to teach you how to stay clean and hygeinic even without a shower</string>
+    <string name="cleaning1">This guide is going to teach you how to stay clean and hygenic even without a shower</string>
     <string name="cleaning2">The best method just requires a bit of warn soapy water and a sponge. You will first focus on sweaty areas and then just give the rest of your body a little bit of wipe down. You can then use dry shampoo on your hair. And if you want to go a little extra, a bit of baby powder over your body works a charm</string>
-    <string name="cleaning3">After washing, you need to make sure to apply some deodrant to under your armpits and sweat- prone areas. An antiperspirant will prevent you from sweating where as a regular deodorant will neutralise the smell</string>
+    <string name="cleaning3">After washing, you need to make sure to apply some deodorant to under your armpits and sweat- prone areas. An antiperspirant will prevent you from sweating where as a regular deodorant will neutralise the smell</string>
     <string name="cleaning">Cleaning</string>
     <string name="washing1">As well as keeping your body clean, keeping your clothes clean is also important to your health. This guide will show you how to clean your clothes without the need for a washing machine or drier</string>
     <string name="washing2">First you need a tub and preferably either washing detergent or soda crystals to help kill dangerous microbes. Add your detergent to water in the tub first.
     Then add the clothes and mix them with a stick so you do not damage your skin. You can also use a washboard to improve the cleaning. Then let the clothes soak for an hour before rinsing them with some water</string>
     <string name="washing3">To dry clothes without a drier all you need to do is tie a string or rope up between two points and then hang the washing over them.
     Preferably this should be done outside as the sun and wind will allow for the washing to dry much faster and will reduce the chance of damp developing in your house.</string>
+    <string name="crops">Crop rotation is incredibly important to maintain the integrity and health of the soil you are using. Planting the same crops continuously in the same area removes the same nutrients.
+    Different crops require different nutrients and so by rotating the type of crop being planted you can naturally maintain healthy soil and hopefully avoid failed harvests</string>
+    <string name="fishing"> One of the most effective ways to catch fish is using a net. Nets can be used either in rivers or in the ocean to catch fish on a larger scale.
+    This can allow you to catch more fish than with a single line but requires more people to operate. </string>
 
     <string-array name="pages">
         <item>Cooking</item>
